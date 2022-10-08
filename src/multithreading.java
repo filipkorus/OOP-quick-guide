@@ -1,5 +1,5 @@
 class multithreading {
-	private static void countToFive(int threadId) { // this function prints numbers from 1 to 5 and waits 1s every number
+	private static void countToFive(int threadId) { // this function prints numbers from 1 to 5 and waits 1s after every number printed
 		for (int i = 1; i <= 5; ++i) {
 			System.out.printf("thread id = %d: %d\n", threadId, i);
 
