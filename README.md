@@ -8,3 +8,4 @@ Object-oriented programming quick guide to prepare yourself for Java test on AGH
 - [error handling](src/errorHandling.java)
 - [inheritance](src/inheritance.java)
 - [interface](src/interfaces.java)
+- [abstract classes](src/abstractClasses.java)
