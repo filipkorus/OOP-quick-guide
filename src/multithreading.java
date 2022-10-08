@@ -30,7 +30,7 @@ class multithreading {
 		myThread.start();
 		myThread2.start();
 
-		// without using Threads countToFive() would be executed one after another,
+		// without using Threads countToFive() function would be executed one after another,
 		// so it will firstly count from 1 to 5 and secondly function will count 1 to 5
 		// instead of counting at the same time
 
