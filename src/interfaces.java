@@ -1,8 +1,8 @@
 interface Animal {
 	public void eat(); // in the interface we specify what methods class must to implements, for example:
 	public void makeNoise(); // every animal can make noise but all of them do it in different ways
-									// so this method cannot be the same for every animal
-									// and that is why we only tell that this method must be implemented for every animal
+	// so this method cannot be the same for every animal
+	// and that is why we only tell that this method must be implemented for every animal
 
 }
 
