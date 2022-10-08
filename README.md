@@ -1,6 +1,6 @@
 # OOP-quick-guide
 Object-oriented programming quick guide to prepare yourself for Java test on AGH UST OOP course.
-Jak pomoglem to zostaw followa i gwiazdke dzienki<3
+Jak pomoglem to zostaw followa i gwiazdke, dzienki<3
 
 **Author**: [Filip Korus](https://fkor.us/) <[fkorus@student.agh.edu.pl](mailto:fkorus@student.agh.edu.pl)>
 
