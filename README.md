@@ -7,3 +7,4 @@ Object-oriented programming quick guide to prepare yourself for Java test on AGH
 - [multithreading](src/multithreading.java)
 - [error handling](src/errorHandling.java)
 - [inheritance](src/inheritance.java)
+- [interface](src/interfaces.java)
