@@ -10,6 +10,7 @@ class Vehicle {
     }
 }
 
+// IMPORTANT: 'extends' keyword
 class Car extends Vehicle { // class Car inherits from class Vehicle
     private final String modelName = "Aventador"; // Car attribute
     public static void main(String[] args) {
